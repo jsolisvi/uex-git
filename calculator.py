@@ -2,6 +2,7 @@
 def read_numbers():
     num1 = float(input('Enter first number: '))
     num2 = float(input('Enter second number: '))
+    #devuelve num1 y num2
     return num1, num2
 
 # Simple menu.
